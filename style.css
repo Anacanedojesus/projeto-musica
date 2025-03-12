@@ -1,5 +1,5 @@
 html, body {
-    background: url('#red');
+    background: url('e30522');
     margin: 0;
     padding: 0;
 }
@@ -11,7 +11,7 @@ html, body {
 }
 
 img {
-    border: 5px double #292f32;
+    border: 5px double #30383b;
     border-radius: 10%;
 }
 h1 {
