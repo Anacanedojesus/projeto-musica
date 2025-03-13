@@ -2,7 +2,7 @@ let audios = [
     {caminho:'Iframe BORA VIVER - Fiduma & Jeca (F&J 10 ANOS) [LFWH_sTlGQk].mp3', legenda:'Matuto de verdade'},
     {caminho:'Iframe Cortando As BR - Fernando & Sorocaba, Fiduma & Jeca Ao Vivo em Jaguariúna [mS-PIgqcd-o].mp3', legenda:'Arash'},
     {caminho:'Iframe Felipe & Rodrigo - Gosta de Rua (Ao Vivo Em Goiânia) #QuestãoDeTempo [ZsN_0_6yEXk].mp3', legenda:'Paula Fernandes'},
-    {caminho:'Hayit.mp3', legenda:'Hayit'},
+    {caminho:'Iframe Israel & Rodolffo - Arruma Um Bão (Termômetro) [acfpoa3zsyE].mp3', legenda:'Hayit'},
     {caminho:'Helena.mp3', legenda:'Helena'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
