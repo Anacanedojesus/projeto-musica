@@ -5,7 +5,7 @@ let audios = [
     {caminho:'Iframe Israel & Rodolffo - Arruma Um Bão (Termômetro) [acfpoa3zsyE].mp3', legenda:'Hayit'},
     {caminho:'Iframe IMAGINA A GENTE - Fiduma & Jeca , @FiorellaOficial (F&J 10 ANOS) [TWEsyJDO1mM].mp3', legenda:'Helena'},
     {caminho:'Iframe Jorge & Mateus - Tem Que Sorrir (Clipe Oficial) [Álbum Tudo Em Paz] [AtHet50A5L4].mp3', legenda:'Paula Fernandes'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'Iframe Jorge & Mateus, Lauana Prado - Haverá Sinais (Clipe Oficial) [Muo3F10dAcw].mp3', legenda:'Paula Fernandes'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'titanic.mp3', legenda:'Titanic'},
 ];
