@@ -4,7 +4,7 @@ let audios = [
     {caminho:'Iframe Felipe & Rodrigo - Gosta de Rua (Ao Vivo Em Goiânia) #QuestãoDeTempo [ZsN_0_6yEXk].mp3', legenda:'Paula Fernandes'},
     {caminho:'Iframe Israel & Rodolffo - Arruma Um Bão (Termômetro) [acfpoa3zsyE].mp3', legenda:'Hayit'},
     {caminho:'Iframe IMAGINA A GENTE - Fiduma & Jeca , @FiorellaOficial (F&J 10 ANOS) [TWEsyJDO1mM].mp3', legenda:'Helena'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'Iframe Jorge & Mateus - Tem Que Sorrir (Clipe Oficial) [Álbum Tudo Em Paz] [AtHet50A5L4].mp3', legenda:'Paula Fernandes'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
     {caminho:'titanic.mp3', legenda:'Titanic'},
